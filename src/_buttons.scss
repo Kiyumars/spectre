@@ -81,6 +81,12 @@
   &.btn-error {
     @include button-variant($error-color);
   }
+  &.btn-blacklisting {
+    @include button-variant($dark-color);
+  }
+  &.btn-graylisting {
+    @include button-variant($gray-color-dark);
+  }
 
   // Button Link
   &.btn-link {
