@@ -534,7 +534,24 @@
 .filter .filter-tag#tag-5:checked ~ .filter-nav .chip[for="tag-5"],
 .filter .filter-tag#tag-6:checked ~ .filter-nav .chip[for="tag-6"],
 .filter .filter-tag#tag-7:checked ~ .filter-nav .chip[for="tag-7"],
-.filter .filter-tag#tag-8:checked ~ .filter-nav .chip[for="tag-8"] {
+.filter .filter-tag#tag-8:checked ~ .filter-nav .chip[for="tag-8"],
+.filter .filter-tag#tag-9:checked ~ .filter-nav .chip[for="tag-9"],
+.filter .filter-tag#tag-10:checked ~ .filter-nav .chip[for="tag-10"],
+.filter .filter-tag#tag-11:checked ~ .filter-nav .chip[for="tag-11"],
+.filter .filter-tag#tag-12:checked ~ .filter-nav .chip[for="tag-12"],
+.filter .filter-tag#tag-13:checked ~ .filter-nav .chip[for="tag-13"],
+.filter .filter-tag#tag-14:checked ~ .filter-nav .chip[for="tag-14"],
+.filter .filter-tag#tag-15:checked ~ .filter-nav .chip[for="tag-15"],
+.filter .filter-tag#tag-16:checked ~ .filter-nav .chip[for="tag-16"],
+.filter .filter-tag#tag-17:checked ~ .filter-nav .chip[for="tag-17"],
+.filter .filter-tag#tag-18:checked ~ .filter-nav .chip[for="tag-18"],
+.filter .filter-tag#tag-19:checked ~ .filter-nav .chip[for="tag-19"],
+.filter .filter-tag#tag-20:checked ~ .filter-nav .chip[for="tag-20"],
+.filter .filter-tag#tag-21:checked ~ .filter-nav .chip[for="tag-21"],
+.filter .filter-tag#tag-22:checked ~ .filter-nav .chip[for="tag-22"],
+.filter .filter-tag#tag-23:checked ~ .filter-nav .chip[for="tag-23"],
+.filter .filter-tag#tag-24:checked ~ .filter-nav .chip[for="tag-24"],
+.filter .filter-tag#tag-25:checked ~ .filter-nav .chip[for="tag-25"] {
   background: #5755d9;
   color: #fff;
 }
@@ -546,7 +563,24 @@
 .filter .filter-tag#tag-5:checked ~ .filter-body .filter-item:not([data-tag~="tag-5"]),
 .filter .filter-tag#tag-6:checked ~ .filter-body .filter-item:not([data-tag~="tag-6"]),
 .filter .filter-tag#tag-7:checked ~ .filter-body .filter-item:not([data-tag~="tag-7"]),
-.filter .filter-tag#tag-8:checked ~ .filter-body .filter-item:not([data-tag~="tag-8"]) {
+.filter .filter-tag#tag-8:checked ~ .filter-body .filter-item:not([data-tag~="tag-8"]),
+.filter .filter-tag#tag-9:checked ~ .filter-body .filter-item:not([data-tag~="tag-9"]),
+.filter .filter-tag#tag-10:checked ~ .filter-body .filter-item:not([data-tag~="tag-10"]),
+.filter .filter-tag#tag-11:checked ~ .filter-body .filter-item:not([data-tag~="tag-11"]),
+.filter .filter-tag#tag-12:checked ~ .filter-body .filter-item:not([data-tag~="tag-12"]),
+.filter .filter-tag#tag-13:checked ~ .filter-body .filter-item:not([data-tag~="tag-13"]),
+.filter .filter-tag#tag-14:checked ~ .filter-body .filter-item:not([data-tag~="tag-14"]),
+.filter .filter-tag#tag-15:checked ~ .filter-body .filter-item:not([data-tag~="tag-15"]),
+.filter .filter-tag#tag-16:checked ~ .filter-body .filter-item:not([data-tag~="tag-16"]),
+.filter .filter-tag#tag-17:checked ~ .filter-body .filter-item:not([data-tag~="tag-17"]),
+.filter .filter-tag#tag-18:checked ~ .filter-body .filter-item:not([data-tag~="tag-18"]),
+.filter .filter-tag#tag-19:checked ~ .filter-body .filter-item:not([data-tag~="tag-19"]),
+.filter .filter-tag#tag-20:checked ~ .filter-body .filter-item:not([data-tag~="tag-20"]),
+.filter .filter-tag#tag-21:checked ~ .filter-body .filter-item:not([data-tag~="tag-21"]),
+.filter .filter-tag#tag-22:checked ~ .filter-body .filter-item:not([data-tag~="tag-22"]),
+.filter .filter-tag#tag-23:checked ~ .filter-body .filter-item:not([data-tag~="tag-23"]),
+.filter .filter-tag#tag-24:checked ~ .filter-body .filter-item:not([data-tag~="tag-24"]),
+.filter .filter-tag#tag-25:checked ~ .filter-body .filter-item:not([data-tag~="tag-25"]) {
   display: none;
 }
 
