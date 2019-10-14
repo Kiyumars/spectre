@@ -87,6 +87,12 @@
   &.btn-graylisting {
     @include button-variant($gray-color-dark);
   }
+  &.btn-highlight {
+    &:focus {
+      @include control-shadow-highlight()
+    }
+  }
+
 
   // Button Link
   &.btn-link {
