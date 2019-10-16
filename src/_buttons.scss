@@ -83,13 +83,14 @@
   }
   &.btn-blacklisting {
     @include button-variant($dark-color);
+    &:focus {
+      background: $primary-color-dark;
+    }
   }
   &.btn-graylisting {
     @include button-variant($gray-color-dark);
-  }
-  &.btn-highlight {
     &:focus {
-      @include control-shadow-highlight()
+      background: $primary-color-dark;
     }
   }
 

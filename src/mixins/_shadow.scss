@@ -7,14 +7,3 @@
 @mixin shadow-variant($offset) {
   box-shadow: 0 $offset ($offset + .05rem) * 2 rgba($dark-color, .3);
 }
-
-
-// Component focus shadow with stronghighlight
-@mixin control-shadow-highlight($color: $primary-color) {
-  box-shadow: 0 0 2rem 1rem rgba($color, .2);
-}
-
-// Shadow mixin with strong highlighting
-@mixin shadow-variant-highlight($offset) {
-  box-shadow: 0 $offset ($offset + 6rem) * 2 rgba($dark-color, .3);
-}

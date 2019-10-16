@@ -721,6 +721,10 @@ html:lang(ko),
   border-left-color: #fff;
 }
 
+.btn.btn-blacklisting:focus {
+  background: #4b48d6;
+}
+
 .btn.btn-graylisting {
   background: #66758c;
   border-color: #5f6d83;
@@ -750,8 +754,8 @@ html:lang(ko),
   border-left-color: #fff;
 }
 
-.btn.btn-highlight:focus {
-  box-shadow: 0 0 2rem 1rem rgba(87, 85, 217, .2);
+.btn.btn-graylisting:focus {
+  background: #4b48d6;
 }
 
 .btn.btn-link {
